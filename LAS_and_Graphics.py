@@ -28,7 +28,7 @@ def main():
 
 def welcome():
     
-    st.title('Lectura de Archivos LAS y Creación de Gráficos')
+    st.title('Lectura de Archivos LAS y Gráficos')
     
     st.subheader('Esta es una simple aplicación que muestra como utilizar la librería WELLY en Phyton,  para efectuar la lectura'
              + ' de archivos LAS y generar las gráficas  correspondientes. ')
