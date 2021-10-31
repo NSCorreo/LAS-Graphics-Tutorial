@@ -35,7 +35,7 @@ def welcome():
     st.subheader('El programa utiliza Jypiter Notebook como plataforma para ejecutar el código Python.')
     st.subheader('**  Seleccione una opción en el menu de la izquierda. **')
 
-    st.subheader('*****  Aqui va el LOGO de le Empresa. *****')
+    st.subheader('*****  Aqui va el JPG de le Empresa. *****')
 #    st.image('01_Lectura_de_datos_crear_simple_gráfico_GR.jpg',use_column_width=True)
 
 
