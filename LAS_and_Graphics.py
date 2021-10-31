@@ -28,9 +28,9 @@ def main():
 
 def welcome():
     
-    st.title('LAS Processing and Graphics')
+    st.title('Lectura de Archivos LAS y Creación de Gráficos')
     
-    st.subheader('Esta es una simple aplicación que muestra como utilizar la librería WELLY en Phyton,  par efectuar la lectura'
+    st.subheader('Esta es una simple aplicación que muestra como utilizar la librería WELLY en Phyton,  para efectuar la lectura'
              + ' de archivos LAS y generar las gráficas  correspondientes. ')
     st.subheader('El programa utiliza Jypiter Notebook como plataforma para ejecutar el código Python.')
     st.subheader('**  Seleccione una opción en el menu de la izquierda. **')
