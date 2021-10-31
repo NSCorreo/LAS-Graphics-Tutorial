@@ -28,7 +28,7 @@ def main():
 
 def welcome():
     
-    st.title('Image Processing using Streamlit')
+    st.title('LAS Processing and Graphics')
     
     st.subheader('Esta es una simple aplicación que muestra como utilizar la librería WELLY en Phyton,  par efectuar la lectura'
              + ' de archivos LAS y generar las gráficas  correspondientes. ')
