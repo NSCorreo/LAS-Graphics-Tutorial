@@ -36,8 +36,9 @@ def welcome():
     st.subheader('**  Seleccione una opción en el menu de la izquierda. **')
 
     st.subheader('*****  Aqui va el JPG de le Empresa. *****')
+    st.write('Esta es otra linea')
 #    st.image('01_Lectura_de_datos_crear_simple_gráfico_GR.jpg',use_column_width=True)
-
+    
 
 def Simple_Graph_GR():
     
